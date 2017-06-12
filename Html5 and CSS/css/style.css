@@ -2,7 +2,17 @@
     color:blue;
 }
 
+.image-height {
+    width:100px
+}
+
+.thin-red-border {
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
 h1 {
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: Lobster,sans-serif;
 }
