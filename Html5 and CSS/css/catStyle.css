@@ -2,12 +2,9 @@
     color: red;
 }
 
-.blue-color {
-    color: blue;
-}
-
 .image-height {
-    width: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 .thin-red-border {
@@ -18,7 +15,6 @@
 }
 
 h1 {
-    font-size: 20px;
     font-family: Lobster, sans-serif;
 }
 
@@ -26,4 +22,14 @@ h2 {
     font-family: Lobster,monospace 
 }
 
+p {
+    font-family: 16px;
+    font-family: monospace;
+}
 
+.thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+}
